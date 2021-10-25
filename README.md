@@ -3,7 +3,7 @@
 MCC_Explicit_mono code is to run an undrained monotonic test for given preconsolidation pressure and current mean confining stress.
 Typical input lines in the code look like:
 
-This program is for predicting soil's behavior using MCC model in a Undrained TRIAXIAL TEST
+This program is for predicting soil's behavior using MCC model in a Undrained TRIAXIAL TEST\\
 Enter the maximum Isotropic consolidation stress (Po')(kPa):392
 Please define the initial stress state in p-q space-
 Enter the initial mean effective confining stress on the sample (kPa):305
